@@ -1,7 +1,7 @@
 <h1> Projeto iPhone UML - DIO 🍎</h1>
 
 O projeto sobre orientação a objetos realizado durante o bootcamp Dio para reforçar meu conhecimento em abstração, análise de negócios e resolução de problemas.
-**Projeto realizado durante bootcamp Dio - .**
+**Projeto realizado durante bootcamp Dio - Java Cloud Native .**
 
 <h2>Funcionamento 🔵</h2> 
 Criei interfaces ````ReprodutorMusical````  ````AparelhoTelefonico````  ````NavegadordaIntenet```` para representar os papéis do iPhone, fiz a escolha de utilizar as interfaces para poder implementar na minha classe Iphone mantendo assim as regras de negócio coesas. No programa principal criei métodos para executar cada um dos serviços.
