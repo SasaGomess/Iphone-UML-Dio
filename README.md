@@ -9,11 +9,11 @@ Criei interfaces ````ReprodutorMusical````  ````AparelhoTelefonico````  ````Nave
 <h2>Classes e métodos 📌 </h2> 
 
 ### Interface - *ReprodutorMusical*
-Foi utilizada para representar um reprodutor musical de um iPhone (Ipad) com os métodos: ```` + tocar() ````: para começar a tocar a musica ````+ pausar()````: para pausar a música ````+ selecionarMusica(String musica)````: para selecionar musica inserida pelo usuário.
+Foi utilizada para representar um reprodutor musical de um iPhone (Ipad) com os métodos: ```` + tocar() ````: para começar a tocar a musica. ````+ pausar()````: para pausar a música. ````+ selecionarMusica(String musica)````: para selecionar musica inserida pelo usuário.
 ### Interface - *NavegadorInternet*
-Utilizada para representar o navegador da internet Safari com os métodos: ````+ exibirPagina(String url)````: para exibir uma url no programa com www.(siteescolhido).com ````+ adcionarNovaAba() ````: para adcionar nova aba de site escolhido pelo usuário ````+ atualizarAba()````: utilizada para atualizar a aba de um navegador quando é criada.
+Utilizada para representar o navegador da internet Safari com os métodos: ````+ exibirPagina(String url)````: para exibir uma url no programa com www.(siteescolhido).com. ````+ adcionarNovaAba() ````: para adcionar nova aba de site escolhido pelo usuário. ````+ atualizarAba()````: utilizada para atualizar a aba de um navegador quando é criada.
 ### Interface - *AparelhoTelefonico*
-Utilizado para representar a parte de ligações e chamadas de um iPhone com os métodos: ````+ ligar(String numero)````: selecionando contato para ligar ````+ atender()````: utilizado para atender uma chamada
+Utilizado para representar a parte de ligações e chamadas de um iPhone com os métodos: ````+ ligar(String numero)````: selecionando contato para ligar. ````+ atender()````: utilizado para atender uma chamada.
 ````+ iniciarCorreioDeVoz()````: utilizado para iniciar um correio de voz se o usuário quiser.
 
 ### Diagrama iPhone 📱
