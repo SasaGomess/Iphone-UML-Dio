@@ -2,7 +2,9 @@ package services;
 
 public interface AparelhoTelefonico{
 
-    public void ligar(String numero);
-    public void atender();
-    public void iniciarCoreioVoz();
+    void ligar(String numero);
+    
+    void atender();
+    
+    void iniciarCoreioVoz();
 }
