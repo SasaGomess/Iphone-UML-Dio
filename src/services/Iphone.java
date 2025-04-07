@@ -2,6 +2,10 @@ package services;
 
 public class Iphone implements AparelhoTelefonico, NavegadorInternet, ReprodutorMusical{
 
+    public Iphone(){
+        
+    }
+
     @Override
     public void ligar(String numero) {
         System.out.println(numero);
