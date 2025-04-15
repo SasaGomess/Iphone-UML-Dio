@@ -29,6 +29,8 @@ Utilizado para representar a parte de ligações e chamadas de um iPhone com os 
   
 <h2>Como executar?🟢</h2>
 
+
+* Tenha a JDK instalada em sua máquina
 * Clone meu repositório ````git clone https://github.com/SasaGomess/Iphone-UML-Dio.git````
 * Escolha uma IDE Eclipse ou IntelliJ
 * Execute no console e insira os dados pedidos
