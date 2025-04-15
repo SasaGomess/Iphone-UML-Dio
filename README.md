@@ -5,7 +5,8 @@ O projeto sobre orientação a objetos realizado durante o bootcamp Dio para ref
 **Projeto realizado durante bootcamp Dio - Java Cloud Native.**
 
 <h2>Funcionamento 🔵</h2> 
-Criei interfaces ````ReprodutorMusical````  ````AparelhoTelefonico````  ````NavegadordaIntenet```` para representar os papéis do iPhone, fiz a escolha de utilizar as interfaces para poder implementar na minha classe Iphone mantendo assim as regras de negócio coesas. No programa principal criei métodos para executar cada um dos serviços.
+
+Criei interfaces ````ReprodutorMusical````,  ````AparelhoTelefonico```` e ````NavegadordaIntenet```` para representar os papéis do iPhone, fiz a escolha de utilizar as interfaces para poder implementar na minha classe Iphone mantendo assim as regras de negócio coesas. No programa principal criei métodos para executar cada um dos serviços.
 
 <h2>Classes e métodos 📌 </h2> 
 
